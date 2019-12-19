@@ -5,7 +5,7 @@
 			<t_title></t_title>
 			<title>|host_description| - CPU</title>
 			<t_vertical_label></t_vertical_label>
-			<vertical_label>percent</vertical_label>
+			<vertical_label>Percent</vertical_label>
 			<t_image_format_id></t_image_format_id>
 			<image_format_id>1</image_format_id>
 			<t_height></t_height>
@@ -76,7 +76,7 @@
 				<value></value>
 				<gprint_id>hash_060101e9c43831e54eca8069317a2ce8c6f751</gprint_id>
 				<textalign></textalign>
-				<text_format></text_format>
+				<text_format>CPU Usage</text_format>
 				<hard_return></hard_return>
 				<line_width>1.00</line_width>
 				<dashes></dashes>
@@ -85,10 +85,10 @@
 			</hash_100101aa43ceab650581f699026478d57de1b8>
 			<hash_100101a0be1db077052e1c7bb6fc1c041b75c3>
 				<graph_type_id>4</graph_type_id>
-				<task_item_id>hash_0801017964754e044e280311d7e7a58020eac1</task_item_id>
+				<task_item_id>hash_0801017e00770fae5b4349ad3f75a0f9e50f16</task_item_id>
 				<color_id>FF0000</color_id>
 				<alpha>FF</alpha>
-				<consolidation_function_id>3</consolidation_function_id>
+				<consolidation_function_id>1</consolidation_function_id>
 				<cdef_id>0</cdef_id>
 				<vdef_id>0</vdef_id>
 				<shift></shift>
@@ -165,14 +165,8 @@
 				<name>Data Source [Average]</name>
 				<description></description>
 				<column_name>task_item_id</column_name>
-				<items>hash_000101aa43ceab650581f699026478d57de1b8|hash_000101ad49936ebcf71c0be87b8f910f02fe7d|hash_0001015fb6ded66a8fca95814ac1a88706e44f|hash_0001013ef7129aa99d84123bc0fa8085e4916f</items>
+				<items>hash_000101aa43ceab650581f699026478d57de1b8|hash_000101a0be1db077052e1c7bb6fc1c041b75c3|hash_000101ad49936ebcf71c0be87b8f910f02fe7d|hash_0001015fb6ded66a8fca95814ac1a88706e44f|hash_0001013ef7129aa99d84123bc0fa8085e4916f</items>
 			</hash_090101a5bbf6cb18a0eeb86bd7a56711048211>
-			<hash_090101ed1d630e4fddef436ae390af2f438542>
-				<name>Data Source [Cpu0]</name>
-				<description></description>
-				<column_name>task_item_id</column_name>
-				<items>hash_000101a0be1db077052e1c7bb6fc1c041b75c3</items>
-			</hash_090101ed1d630e4fddef436ae390af2f438542>
 		</inputs>
 	</hash_000101025267c69c63faf4763921b9d5b30f96>
 	<hash_0101012e9f1fa2f0e4aa1e822aa95f20210ebb>
