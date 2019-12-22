@@ -1,0 +1,3 @@
+# Specific EXTENDS for Cacti
+
+extend	MySQLQuestions	/usr/local/bin/cacti-local-mysql-questions.pl
