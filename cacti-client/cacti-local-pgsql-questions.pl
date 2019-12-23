@@ -7,7 +7,7 @@ use DBI;
 my $db_driver = 'Pg';
 my $db_host   = 'localhost';
 my $db_port   = '5432';
-my $db_pass   = 'Trustno1!';
+my $db_pass   = '<password>';
 my $db_user   = 'readuser';
 my $db_name   = 'postgres';
 my $dsn       = "DBI:$db_driver:dbname=$db_name;host=$db_host;port=$db_port";
