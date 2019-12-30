@@ -2,3 +2,4 @@
 
 extend	MySQLQuestions	/usr/local/bin/cacti-local-mysql-questions.pl
 extend	PGSQLQuestions	/usr/local/bin/cacti-local-pgsql-questions.pl
+extend	Bind-qtype	/usr/local/bin/cacti-local-bind-qtype.pl
