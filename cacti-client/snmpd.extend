@@ -5,3 +5,4 @@ extend	PGSQLQuestions		/usr/local/bin/cacti-local-pgsql-questions.pl
 extend	Bind-qtype		/usr/local/bin/cacti-local-bind-qtype.pl
 extend	Apache-workers		/usr/local/bin/cacti-local-apache-workers.pl
 extend	RsnapshotSuccess	/usr/local/bin/cacti-local-rsnapshot-success.pl
+extend	DuSize			/usr/local/bin/cacti-local-du-size.pl
